@@ -10,9 +10,9 @@ Al formar parte de nuestras actividades y plataformas oficiales, así como en ac
 
 ### Conductas positivas
 
-Las siguientes son algunas de las actitudes que fomentamos dentro de la comunidad
+Las siguientes son algunas de las actitudes que fomentamos dentro de la comunidad.
 
-- Tratar a todos con respeto, amabilidad y empatía.
+- Trato con respeto, amabilidad y empatía.
 - Mantener una comunicación clara y efectiva.
 - Promover un ambiente profesional e inclusivo
 - Brindar y aceptar críticas constructivas y empáticas.
@@ -20,16 +20,16 @@ Las siguientes son algunas de las actitudes que fomentamos dentro de la comunida
 
 ### Conductas negativas
 
-Asimismo, presentamos algunas de las conductas que no serán toleradas
+Asimismo, presentamos algunas de las conductas que no serán toleradas.
 
-- Falta de respeto incluyendo pero sin limitarse a, hostigación o acoso, uso de lenguaje grosero u obsceno, violencia de cualquier tipo (verbal, física, sexual, emocional), denigración, entre otros.
+- Falta de respeto incluyendo, pero sin limitarse a, hostigación o acoso, uso de lenguaje grosero u obsceno, violencia de cualquier tipo (verbal, física, sexual, emocional), denigración, entre otros.
 - Discriminación de cualquier tipo, incluyendo motivos de género, expresión de género, orientación sexual, capacidades diferentes, apariencia física, tamaño del cuerpo, etnia, nacionalidad, edad o religión, entre otros.
 - Faltas legales, como pueden plagio, difamación, pornografía infantil, uso de sustancias ilegales, entre otros.
 - Spam en los medios digitales, como redes sociales y reuniones de la comunidad.
 
 ### Reporte de Incidentes
 
-Si experimenta o se percata de cualquier problema, actividad sospechosa o comportamiento perjudicial, informe al personal identificado del equipo de **Toh Tech** o a través de (contacto) o (contacto alterno).
+Si experimenta o se percata de cualquier problema, actividad sospechosa o comportamiento perjudicial, informe al personal identificado del equipo de **Toh Tech** o a través del correo electrónico toh.tech@outlook.com o del servidor de [Discord](https://discord.gg/c66gEZKj3B) de la comunidad en el canal de #reportes.
 
 Asimismo, puede rellenar el [siguiente formulario](https://forms.office.com/r/qvHxpG8pY9), detallando el incidente del que fue víctima o testigo.
 
