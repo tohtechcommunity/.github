@@ -13,7 +13,7 @@ Somos una comunidad que busca compartir conocimientos principalmente en áreas d
 
 ## Sé parte de la comunidad
 
-Buscamos brindar experiencias empoderadoras que se desarrollen en ambientes libres de acoso y discriminación. Por ello, te invitamos a leer nuestro [Código de Conducta](CodigodeConducta.md) para que conozcas nuestras políticas de comportamiento.
+Buscamos brindar experiencias empoderadoras que se desarrollen en ambientes libres de acoso y discriminación. Por ello, te invitamos a leer nuestro [Código de Conducta](profile/CodigodeConducta.md) para que conozcas nuestras políticas de comportamiento.
 
 También te invitamos a unirte al [Discord](https://discord.gg/c66gEZKj3B) de la comunidad.
 
